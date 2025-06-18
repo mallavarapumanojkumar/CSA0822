@@ -1,0 +1,8 @@
+# Input: Student's marks
+marks = float(input("Enter the student's marks: "))
+
+# Check pass or fail
+if marks >= 50:
+    print("Result: Passed")
+else:
+    print("Result: Failed")
